@@ -1,4 +1,4 @@
-# Reprogrammed FICIHP FICIHP Multifunctional Keyboard K2
+# Reprogrammed FICIHP Multifunctional Keyboard K2
 
 Program FICIHP to be like poker 3 60% keyboards
 

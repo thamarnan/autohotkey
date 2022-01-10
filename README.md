@@ -1,2 +1,1 @@
-# autohotkeys
-useful ahk
+# Collection of useful AutoHotKey
